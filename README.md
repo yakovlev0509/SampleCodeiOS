@@ -7,3 +7,5 @@ Content elemtns are stored in **CollectionView**. Entities that represent each p
 Some actions and information are moved into another separated classes. For example information about the presence of compounds with internet **StoreBaseViewController** receives from **RequestManager**.
 
 The implementation of some controls, such buttons for content screening, designed as a single subclass a **UIView**, which reports on the options selected by the user in a convenient way.
+
+Developed using Objective-C, xCode 8
